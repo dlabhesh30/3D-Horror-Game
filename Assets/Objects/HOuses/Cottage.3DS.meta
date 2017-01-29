@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: b1d47c6d3de2cad44a7a08fb6c682260
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: asse1
+    100002: asse10
+    100004: asse2
+    100006: asse3
+    100008: asse4
+    100010: asse5
+    100012: asse6
+    100014: asse7
+    100016: asse8
+    100018: asse9
+    100020: Base
+    100022: Box463
+    100024: Box465
+    100026: Camera01
+    100028: Camera01.T.target
+    100030: Camera02
+    100032: Camera02.T.target
+    100034: Candle
+    100036: Candle0
+    100038: chair1
+    100040: chair10
+    100042: chair2
+    100044: chair20
+    100046: //RootNode
+    100048: door
+    100050: Floor
+    100052: Glass
+    100054: Lato A
+    100056: Lato B
+    100058: lato C
+    100060: Lato D
+    100062: palo 1
+    100064: palo 2
+    100066: palo 3
+    100068: palo 4
+    100070: PCandle
+    100072: RoofA
+    100074: RoofB
+    100076: RoofC
+    100078: RoofD
+    100080: scheletro
+    100082: staccionat
+    100084: stairs
+    100086: table
+    400000: asse1
+    400002: asse10
+    400004: asse2
+    400006: asse3
+    400008: asse4
+    400010: asse5
+    400012: asse6
+    400014: asse7
+    400016: asse8
+    400018: asse9
+    400020: Base
+    400022: Box463
+    400024: Box465
+    400026: Camera01
+    400028: Camera01.T.target
+    400030: Camera02
+    400032: Camera02.T.target
+    400034: Candle
+    400036: Candle0
+    400038: chair1
+    400040: chair10
+    400042: chair2
+    400044: chair20
+    400046: //RootNode
+    400048: door
+    400050: Floor
+    400052: Glass
+    400054: Lato A
+    400056: Lato B
+    400058: lato C
+    400060: Lato D
+    400062: palo 1
+    400064: palo 2
+    400066: palo 3
+    400068: palo 4
+    400070: PCandle
+    400072: RoofA
+    400074: RoofB
+    400076: RoofC
+    400078: RoofD
+    400080: scheletro
+    400082: staccionat
+    400084: stairs
+    400086: table
+    2300000: asse1
+    2300002: asse10
+    2300004: asse2
+    2300006: asse3
+    2300008: asse4
+    2300010: asse5
+    2300012: asse6
+    2300014: asse7
+    2300016: asse8
+    2300018: asse9
+    2300020: Base
+    2300022: Box463
+    2300024: Box465
+    2300026: Candle0
+    2300028: chair10
+    2300030: chair20
+    2300032: Floor
+    2300034: Glass
+    2300036: Lato A
+    2300038: Lato B
+    2300040: lato C
+    2300042: Lato D
+    2300044: palo 1
+    2300046: palo 2
+    2300048: palo 3
+    2300050: palo 4
+    2300052: PCandle
+    2300054: RoofA
+    2300056: RoofB
+    2300058: RoofC
+    2300060: RoofD
+    2300062: scheletro
+    2300064: staccionat
+    2300066: stairs
+    2300068: table
+    3300000: asse1
+    3300002: asse10
+    3300004: asse2
+    3300006: asse3
+    3300008: asse4
+    3300010: asse5
+    3300012: asse6
+    3300014: asse7
+    3300016: asse8
+    3300018: asse9
+    3300020: Base
+    3300022: Box463
+    3300024: Box465
+    3300026: Candle0
+    3300028: chair10
+    3300030: chair20
+    3300032: Floor
+    3300034: Glass
+    3300036: Lato A
+    3300038: Lato B
+    3300040: lato C
+    3300042: Lato D
+    3300044: palo 1
+    3300046: palo 2
+    3300048: palo 3
+    3300050: palo 4
+    3300052: PCandle
+    3300054: RoofA
+    3300056: RoofB
+    3300058: RoofC
+    3300060: RoofD
+    3300062: scheletro
+    3300064: staccionat
+    3300066: stairs
+    3300068: table
+    4300000: Glass
+    4300002: Base
+    4300004: stairs
+    4300006: staccionat
+    4300008: palo 1
+    4300010: palo 2
+    4300012: palo 3
+    4300014: palo 4
+    4300016: RoofB
+    4300018: RoofA
+    4300020: RoofC
+    4300022: RoofD
+    4300024: Floor
+    4300026: Lato D
+    4300028: Lato B
+    4300030: Lato A
+    4300032: lato C
+    4300034: scheletro
+    4300036: Box465
+    4300038: Box463
+    4300040: table
+    4300042: asse2
+    4300044: asse1
+    4300046: asse3
+    4300048: chair10
+    4300050: asse4
+    4300052: asse8
+    4300054: asse6
+    4300056: asse5
+    4300058: asse7
+    4300060: chair20
+    4300062: asse9
+    4300064: asse10
+    4300066: PCandle
+    4300068: Candle0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

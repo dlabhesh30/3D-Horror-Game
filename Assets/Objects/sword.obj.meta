@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 38594a8f2c7497b469ad77a9c8e5ee69
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Blade
+    100002: Hilt
+    100004: Leather
+    100006: runes
+    100008: //RootNode
+    100010: SwordGoldRings
+    100012: SwordSkull
+    400000: Blade
+    400002: Hilt
+    400004: Leather
+    400006: runes
+    400008: //RootNode
+    400010: SwordGoldRings
+    400012: SwordSkull
+    2300000: Blade
+    2300002: Hilt
+    2300004: Leather
+    2300006: runes
+    2300008: SwordGoldRings
+    2300010: SwordSkull
+    3300000: Blade
+    3300002: Hilt
+    3300004: Leather
+    3300006: runes
+    3300008: SwordGoldRings
+    3300010: SwordSkull
+    4300000: Blade
+    4300002: Hilt
+    4300004: Leather
+    4300006: runes
+    4300008: SwordGoldRings
+    4300010: SwordSkull
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
